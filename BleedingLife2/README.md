@@ -2,7 +2,7 @@
 
 Bleeding Life 2 (Exploit Pack)
 
-Uploaded to GitHub for those who want to analyze the code.
+Uploaded to GitHub for those who want to analyze the code
 
 
 ### References 
