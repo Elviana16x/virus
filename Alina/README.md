@@ -1,7 +1,7 @@
 # Alina
 Alina Spark malware (Point of Sales Trojan)
 
-Uploaded to GitHub for those who want to analyze the code.
+Uploaded to GitHub for those who want to analyze the code
 
 ### References
 
