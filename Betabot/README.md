@@ -1,7 +1,7 @@
 # Betabot 
 Betabot, Neurevt (Trojan)
 
-Uploaded to GitHub for those who want to analyze the code.
+Uploaded to GitHub for those who want to analyze the code
 
 ### References
 
